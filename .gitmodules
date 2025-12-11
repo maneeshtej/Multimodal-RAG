@@ -1,0 +1,6 @@
+[submodule "Multimodal-RAG"]
+	path = Multimodal-RAG
+	url = git@github.com:maneeshtej/Multimodal-RAG.git
+[submodule "SQL-RAG"]
+	path = SQL-RAG
+	url = git@github.com:maneeshtej/SQL-RAG.git

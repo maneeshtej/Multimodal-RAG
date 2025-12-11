@@ -1,9 +1,0 @@
-{
-  "jsonl_path": "../output/chunks/chunks.jsonl",
-  "db_path": "./vector_store/",
-  "collection_name": "rag_store",
-  "top_k": 5,
-
-  "gemini_model": "gemini-2.5-flash",
-  "gemini_api_key": "AIzaSyA6k4IrwZ_IfFJ8XeTL_mnmbvqOeokk-8o"
-}

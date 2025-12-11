@@ -1,0 +1,10 @@
+{
+  "pdf_input_dir": "./ingest/input/cloud.pdf",
+  "output_dir": "./data/output",
+  "dpi": 450,
+  "yolo_model_path": "./ingest/yolov8x-doclaynet.pt",
+  "min_confidence": 0.4,
+  "iou_threshold": 0.7,
+  "gemini_model": "gemini-2.5-flash",
+  "gemini_api_key": "AIzaSyA6k4IrwZ_IfFJ8XeTL_mnmbvqOeokk-8o"
+}
